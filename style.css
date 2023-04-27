@@ -36,7 +36,7 @@ body::after {
 .card {
   width: clamp(350px, 350px, 100vw);
   height: 377px;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   overflow: hidden;
   background: url('./images/bg-pattern-card.svg') repeat;
   position: relative;
